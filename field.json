@@ -5,7 +5,7 @@
     "icon": "person_outline",
     "required": true,
     "keyboardType": "text",
-    "maxLength": null,
+    "maxLength": null
   },
   {
     "key": "father_name",
@@ -13,7 +13,7 @@
     "icon": "family_restroom",
     "required": true,
     "keyboardType": "text",
-    "maxLength": null,
+    "maxLength": null
   },
   {
     "key": "mobile",
@@ -21,7 +21,7 @@
     "icon": "phone_android",
     "required": true,
     "keyboardType": "number",
-    "maxLength": 10,
+    "maxLength": 10
   },
   {
     "key": "email",
@@ -29,7 +29,7 @@
     "icon": "email_outlined",
     "required": false,
     "keyboardType": "emailAddress",
-    "maxLength": null,
+    "maxLength": null
   },
   {
     "key": "password",
@@ -37,7 +37,7 @@
     "icon": "lock_outline",
     "required": true,
     "keyboardType": "text",
-    "isPassword": true,
+    "isPassword": true
   },
   {
     "key": "dob",
@@ -45,6 +45,6 @@
     "icon": "calendar_today_outlined",
     "required": true,
     "keyboardType": "datetime",
-    "isDate": true,
+    "isDate": true
   }
 ]
