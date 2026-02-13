@@ -8,14 +8,6 @@
     "maxLength": null
   },
   {
-    "key": "father_name",
-    "label": "Father's Name",
-    "icon": "family_restroom",
-    "required": true,
-    "keyboardType": "text",
-    "maxLength": null
-  },
-  {
     "key": "mobile",
     "label": "Mobile Number",
     "icon": "phone_android",
@@ -38,13 +30,5 @@
     "required": true,
     "keyboardType": "text",
     "isPassword": true
-  },
-  {
-    "key": "dob",
-    "label": "Date of Birth",
-    "icon": "calendar_today_outlined",
-    "required": true,
-    "keyboardType": "datetime",
-    "isDate": true
   }
 ]
