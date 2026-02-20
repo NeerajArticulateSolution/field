@@ -24,6 +24,22 @@
     "maxLength": null
   },
   {
+    "key": "father_name",
+    "label": "Father's Name",
+    "icon": "family_restroom",
+    "required": true,
+    "keyboardType": "text",
+    "maxLength": null
+  },
+  {
+    "key": "dob",
+    "label": "Date of Birth",
+    "icon": "calendar_today_outlined",
+    "required": true,
+    "keyboardType": "datetime",
+    "isDate": true
+  },
+  {
     "key": "password",
     "label": "Password",
     "icon": "lock_outline",
